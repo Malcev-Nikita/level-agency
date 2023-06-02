@@ -1,0 +1,88 @@
+.portfolio
+    margin: 50px 0px
+
+    &-main
+        margin-top: 200px
+
+        .portfolio__content
+            display: grid
+            grid-template-columns: repeat(2, 1fr)
+            grid-template-rows: repeat(7, 1fr)
+            grid-column-gap: 0px
+            grid-row-gap: 0px
+            margin-top: 0
+
+            .portfolio__item
+                width: 80%
+                
+                img
+                    height: auto
+
+            .portfolio__item:nth-child(1)
+                grid-area: 1 / 1 / 4 / 2
+
+            .portfolio__item:nth-child(2)
+                grid-area: 2 / 2 / 7 / 3
+
+            .portfolio__item:nth-child(3)
+                grid-area: 4 / 1 / 8 / 2
+
+    &__subheader
+        font-size: 24px
+        margin-left: 80px
+        margin-top: 15px
+
+    &__header
+        @include header
+
+        &::after
+            @include header_hr
+
+    &__content
+        width: 100%
+        display: flex
+        justify-content: space-between
+        align-items: center
+        flex-wrap: wrap
+        margin-top: 60px
+
+    &__item
+        width: 48%
+
+        img
+            width: 100%
+            height: 483px
+            object-fit: cover
+            margin-top: 20px
+
+        p
+            text-transform: uppercase
+            font-size: 1rem
+            margin: 20px 0
+            position: relative
+            font-weight: 500
+            display: inline-block
+            line-height: 1.5
+
+            span
+                position: relative
+
+                &::before, &::after
+                    content: ""
+                    display: block
+                    position: absolute
+                    width: 9px
+                    height: 1px
+                    border-radius: 10px
+                    background-color: var(--second_color) 
+                    right: -20px
+
+                &::before
+                    transform: rotate(45deg)
+                    top: 6.5px
+
+                &::after
+                    transform: rotate(-45deg)
+                    bottom: 5.5px
+                
+        

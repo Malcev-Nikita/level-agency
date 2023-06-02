@@ -1,0 +1,56 @@
+.header
+    background-color: var(--second_color)
+    width: 100%
+    min-height: 900px
+    height: 100vh
+    background-size: cover
+    
+    .container
+        height: 100%
+        position: relative
+
+        &::after
+            content: ""
+            display: block
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%)
+            background-color: #000000
+            filter: blur(375px)
+            width: 70%
+            height: 50%
+            z-index: 1
+
+        .header__logo
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%)
+            z-index: 2
+
+        h1
+            font-size: 240px
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%)
+            line-height: 0.8
+            text-indent: -40px
+            margin-top: 20px
+            color: var(--third_color)
+
+            span:nth-child(1)
+                margin-left: 1px
+
+            u
+                text-decoration: none
+                font-size: 144px
+                margin-left: 100px
+                color: var(--bg_color)
+        
+        svg
+            position: absolute
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%)
