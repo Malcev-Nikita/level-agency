@@ -10,3 +10,6 @@
 </footer>
 
 <script src="script/bootstrap.bundle.min.js"></script>
+<script src="script/locomotive-scroll.min.js"></script>
+<script src="script/scroll.js"></script>
+<script src="script/burger.js"></script>

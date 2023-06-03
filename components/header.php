@@ -19,6 +19,10 @@
                 <a href="#client"><li>КЛИЕНТЫ</li></a>
                 <a href="#contacts"><li>КОНТАКТЫ</li></a>
             </ul>
+
+            <div class="nav__burger">
+                <span></span>
+            </div>
         </div>
     </nav>
 <?else:?>
@@ -30,3 +34,16 @@
             </div>
         </nav>
 <?endif?>
+
+<div class="nav__burger_menu">
+    <div class="nav__burger_menu_close"></div>
+    
+    <ul class="nav__burger_ul">
+        <a href="#main"><li>ГЛАВНАЯ</li></a>
+        <a href="#about"><li>О НАС</li></a>
+        <a href="#services"><li>УСЛУГИ</li></a>
+        <a href="#portfolio"><li>ПОРТФОЛИО</li></a>
+        <a href="#client"><li>КЛИЕНТЫ</li></a>
+        <a href="#contacts"><li>КОНТАКТЫ</li></a>
+    </ul>
+</div>

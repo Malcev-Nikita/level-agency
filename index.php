@@ -147,7 +147,7 @@
       </div>
     </section>
 
-    <section class="team" id="">
+    <section class="team" id="team">
       <div class="container">
         <h2 class="team__header">Наша команда</h2>
 
@@ -277,7 +277,7 @@
         </div>
 
         <div class="contacts__item contacts__form">
-          <form>
+          <form action="controllers/mail.php" method="post">
             <div class="contacts__form_inputs">
                 <input name="name" type="text" placeholder="Ваше имя">
                 <input name="phone" type="phone" placeholder="Ваш телефон">
