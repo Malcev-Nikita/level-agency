@@ -60,9 +60,9 @@
         </div>
 
         <div class="about__images">
-          <img src="/image/img/about1.png" alt="" />
-          <img src="/image/img/about2.png" alt="" />
-          <img src="/image/img/about3.png" alt="" />
+          <img src="/image/img/about1.png" alt="" data-aos="fade-up" data-aos-delay="100"/>
+          <img src="/image/img/about2.png" alt="" data-aos="fade-up" data-aos-delay="200"/>
+          <img src="/image/img/about3.png" alt="" data-aos="fade-up" data-aos-delay="300"/>
         </div>
       </div>
     </section>
@@ -72,7 +72,7 @@
         <h2 class="services__header">наши услуги</h2>
 
         <div class="services__content">
-          <div class="services__item">
+          <div class="services__item" data-aos="fade-up" data-aos-delay="100">
             <p class="services__item_header">Форумы и слеты</p>
 
             <p class="services__item_description">
@@ -80,7 +80,7 @@
             </p>
           </div>
 
-          <div class="services__item">
+          <div class="services__item" data-aos="fade-up" data-aos-delay="200">
             <p class="services__item_header">Тимбилдинги</p>
 
             <p class="services__item_description">
@@ -88,7 +88,7 @@
             </p>
           </div>
 
-          <div class="services__item">
+          <div class="services__item" data-aos="fade-up" data-aos-delay="300">
             <p class="services__item_header">Бизнес-мероприятия</p>
 
             <p class="services__item_description">
@@ -96,7 +96,7 @@
             </p>
           </div>
 
-          <div class="services__item">
+          <div class="services__item" data-aos="fade-up" data-aos-delay="400">
             <p class="services__item_header">Официальные события</p>
 
             <p class="services__item_description">
@@ -104,7 +104,7 @@
             </p>
           </div>
 
-          <div class="services__item">
+          <div class="services__item" data-aos="fade-up" data-aos-delay="500">
             <p class="services__item_header">Корпоративные события</p>
 
             <p class="services__item_description">
@@ -124,19 +124,19 @@
         <p class="portfolio__subheader">то, чем мы гордимся</p>
 
         <div class="portfolio__content">
-          <div class="portfolio__item">
+          <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
             <img src="/image/img/portfolio1.png" alt=""/>
 
             <p>премия «предприниматель года»<span></span></p>
           </div>
 
-          <div class="portfolio__item">
+          <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
             <img src="/image/img/portfolio2.png" alt=""/>
 
             <p>Кибертурнир от «ростелеком»<span></span></p>
           </div>
 
-          <div class="portfolio__item">
+          <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
             <img src="/image/img/portfolio3.png" alt=""/>
 
             <p>МЕЖДУНАРОДНЫЙ БИЗНЕС КОНГРЕСС “НОВЫЕ ПРАВИЛА РОСТА” В САНКТ-ПЕТЕРБУРГЕ <span></span></p>
@@ -177,27 +177,27 @@
 
 
         <div class="client__content">
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="100">
             <img src="/image/icon/client1.svg" alt="" />
           </div>
 
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="150">
             <img src="/image/icon/client2.svg" alt="" />
           </div>
 
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="200">
             <img src="/image/icon/client3.svg" alt="" />
           </div>
 
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="250">
             <img src="/image/icon/client4.svg" alt="" />
           </div>
 
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="300">
             <img src="/image/icon/client5.svg" alt="" />
           </div>
 
-          <div class="client__item">
+          <div class="client__item" data-aos="fade-up" data-aos-delay="350">
             <img src="/image/icon/client6.svg" alt="" />
           </div>
         </div>

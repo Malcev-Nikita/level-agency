@@ -982,6 +982,9 @@
   .contacts .contacts__form {
     width: 100%;
   }
+  .team {
+    margin: 100px 0;
+  }
 }
 @media (max-width: 576px) {
   .footer .container {
