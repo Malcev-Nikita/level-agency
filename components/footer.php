@@ -5,11 +5,11 @@
             <h5 class="text-regular">Разработка и поддержка сайта: Коммуникационное агентство «Такхан»</h5>
         </div>
 
-        <a href="/" class="footer__block"><img src="/image/icon/logo.svg" alt=""></a>
+        <a href="/" class="footer__block"><img src="//level-agency/image/icon/logo.svg" alt=""></a>
     </div>
 </footer>
 
-<script src="script/bootstrap.bundle.min.js"></script>
+<script src="//level-agency/script/bootstrap.bundle.min.js"></script>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>AOS.init();</script>
-<script src="script/burger.js"></script>
+<script src="//level-agency/script/burger.js"></script>

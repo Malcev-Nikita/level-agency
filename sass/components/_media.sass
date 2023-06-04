@@ -45,6 +45,21 @@
     .about__pros
         margin-top: 40px
 
+    .portfolio__item img
+        width: 300px
+
+    .portfolio__item p
+        font-size: 14px
+
+    .portfolio__item p span::after
+        bottom: 4.5px
+
+    .portfolio__item p span::before
+        top: 5.5px
+
+    .portfolio__content 
+        margin-top: 30px
+
 @media (max-width: 991px)
     .nav__burger
         display: flex
@@ -167,6 +182,9 @@
     .contacts__item .contacts__item
         width: 90%
 
+    .portfolio__item img
+        height: 220px
+
 @media (max-width: 767px) 
     .nav__burger_menu_active
         width: 65%
@@ -233,6 +251,16 @@
     .team
         margin: 100px 0
 
+    .portfolio__content
+        flex-direction: column
+
+    .portfolio__item
+        width: 100%
+
+    .portfolio__item img
+        height: 330px
+        width: 100%
+
 @media (max-width: 576px) 
     .footer .container
         flex-direction: column
@@ -280,3 +308,15 @@
 
     .header .container h1 u
         font-size: 60px
+
+    .portfolio__item img
+        height: 240px
+
+    .portfolio__item p
+        font-size: 12px
+
+    .portfolio__item p span::after
+        bottom: 3.5px
+    
+    .portfolio__item p span::before
+        top: 3.5px

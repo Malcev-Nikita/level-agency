@@ -112,7 +112,7 @@
             </p>
           </div>
 
-          <a class="button__nofill"><span>Оставить заявку</span></a>
+          <a class="button__nofill" href="#contacts"><span>Оставить заявку</span></a>
         </div>
       </div>
     </section>
@@ -143,7 +143,7 @@
           </div>
         </div>
 
-        <a class="button__nofill"><span>Смотреть больше</span></a>
+        <a class="button__nofill" href="/pages/portfolio.php"><span>Смотреть больше</span></a>
       </div>
     </section>
 
