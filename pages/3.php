@@ -10,9 +10,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <p>СЕМИНАР-ПРАКТИКУМ «ПУТЬ К УСПЕХУ»</p>
         </div>
     </section>
@@ -53,22 +53,22 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8128.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8129.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8130.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8131.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8132.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8133.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8134.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8135.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8136.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8137.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8138.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8139.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8140.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8141.WEBP" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8142.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case3/IMG_8143.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8128.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8129.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8130.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8131.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8132.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8133.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8134.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8135.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8136.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8137.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8138.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8139.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8140.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8141.WEBP" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8142.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case3/IMG_8143.PNG" alt=""></div>
                 </div>
             </div>
         </div>

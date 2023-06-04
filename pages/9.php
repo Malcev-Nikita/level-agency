@@ -10,9 +10,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <p>семейный фестиваль от “ростелеком”</p>
         </div>
     </section>
@@ -46,12 +46,12 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSC_6773.jpg" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8662.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8667.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8675.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8701.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8779.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSC_6773.jpg" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSCF8662.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSCF8667.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSCF8675.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSCF8701.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case9/DSCF8779.JPG" alt=""></div>
                 </div>
             </div>
         </div>

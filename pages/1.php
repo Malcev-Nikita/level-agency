@@ -10,9 +10,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <p>“сообществу “PRo-женщин” в астрахани 3 года”</p>
         </div>
     </section>
@@ -43,11 +43,11 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8111.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8112.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8113.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8114.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8115.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case1/IMG_8111.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case1/IMG_8112.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case1/IMG_8113.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case1/IMG_8114.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case1/IMG_8115.PNG" alt=""></div>
                 </div>
             </div>
         </div>

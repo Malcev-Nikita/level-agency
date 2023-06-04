@@ -997,6 +997,8 @@
   .client__content {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
     row-gap: 40px;
   }
   .client__item {
@@ -1079,13 +1081,17 @@
     font-size: 100px;
   }
   .about__images img:nth-child(2) {
-    display: none;
+    position: absolute;
+    z-index: 1;
+    transform: translateY(10px);
+    margin-top: 250px;
   }
   .about__images img {
     width: 55%;
   }
   .about__images {
     margin-top: 50px;
+    position: relative;
   }
   .about {
     margin-bottom: 100px;
@@ -1185,10 +1191,10 @@
     height: 200px;
   }
   .about .container {
-    padding: 30px 20px;
+    padding: 60px 20px;
   }
   .about__images {
-    display: none;
+    display: flex;
   }
   .nav__burger_menu_active {
     width: 100%;

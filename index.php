@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <?include './components/head.php';?>
-    <title>LEVEL-AGENCY</title>
+    <title>f0827017.xsph.ru</title>
 </head>
 <body>
     <?include './components/header.php';?>

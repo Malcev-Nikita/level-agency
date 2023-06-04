@@ -10,9 +10,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
             <p>мероприятия для ФК “волгарь”</p>
         </div>
     </section>
@@ -46,12 +46,12 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8148.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8149.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8150.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8151.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8152.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8153.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8148.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8149.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8150.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8151.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8152.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case5/IMG_8153.PNG" alt=""></div>
                 </div>
             </div>
         </div>

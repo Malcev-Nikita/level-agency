@@ -9,7 +9,7 @@
         <div class="nav__opacity"></div>
 
         <div class="container">
-            <a href="/" class="logo"><img src="//level-agency/image/icon/logo.svg" alt=""></a>
+            <a href="/" class="logo"><img src="//f0827017.xsph.ru/image/icon/logo.svg" alt=""></a>
 
             <ul class="nav__ul">
                 <a href="#main"><li>ГЛАВНАЯ</li></a>
@@ -43,7 +43,7 @@
         <div class="nav__opacity"></div>
 
         <div class="container">
-            <a href="/" class="logo"><img src="//level-agency/image/icon/logo.svg" alt=""></a>
+            <a href="/" class="logo"><img src="//f0827017.xsph.ru/image/icon/logo.svg" alt=""></a>
 
             <ul class="nav__ul">
                 <a href="/#main"><li>ГЛАВНАЯ</li></a>
@@ -77,7 +77,7 @@
         <div class="nav__opacity"></div>
         
         <div class="container">
-            <a href="/" class="logo"><img src="//level-agency/image/icon/logo.svg" alt=""></a>
+            <a href="/" class="logo"><img src="//f0827017.xsph.ru/image/icon/logo.svg" alt=""></a>
         </div>
     </nav>
 <?endif?>
