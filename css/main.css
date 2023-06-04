@@ -83,7 +83,7 @@
 }
 .nav__burger_menu ul a li {
   list-style-type: none;
-  margin: 20px 0;
+  margin: 25px 0;
 }
 .nav__burger_menu ul a:hover::after {
   width: 100%;
@@ -161,6 +161,14 @@
 }
 .nav__ul a:hover::after {
   width: 100%;
+}
+.nav__portfolio .nav__burger {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .header {
@@ -1141,6 +1149,10 @@
   }
   .portfolio-detail__galery {
     height: 330px;
+  }
+  .nav__burger_menu ul {
+    font-size: 12px;
+    transform: translateY(-50px);
   }
 }
 @media (max-width: 576px) {
