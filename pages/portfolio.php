@@ -7,6 +7,14 @@
 <body>
     <?include '../components/header.php';?>
 
+    <section class="bread">
+        <div class="container">
+            <a href="/">Главная</a>
+            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <p>Портфолио</p>
+        </div>
+    </section>
+
     <section class="portfolio">
         <div class="container">
             <h2 class="portfolio__header">портфолио</h2>    
@@ -53,8 +61,13 @@
                 </a>
 
                 <a class="portfolio__item" href="/pages/9.php">
-                    <img src="//level-agency/image/portfolio/case9/IMG_8195.PNG" alt=""/>
-                    <p>бизнес-встреча по теме «Реальная экономика»<span></span></p>
+                    <img src="//level-agency/image/portfolio/case9/DSC_6773.jpg" alt=""/>
+                    <p>семейный фестиваль от “ростелеком”<span></span></p>
+                </a>
+
+                <a class="portfolio__item" href="/pages/10.php">
+                    <img src="//level-agency/image/portfolio/case10/IMG_8194.PNG" alt=""/>
+                    <p>бизнес-встреча с бкс мир инвестиций<span></span></p>
                 </a>
             </div>
         </div>

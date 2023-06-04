@@ -311,7 +311,8 @@
 .portfolio__item img {
   width: 100%;
   height: 483px;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
   margin-top: 20px;
 }
 .portfolio__item p {
@@ -381,7 +382,7 @@
 }
 .portfolio-detail__descr {
   width: 50%;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 .portfolio-detail__galery_header {
   margin-top: 100px;
@@ -390,13 +391,19 @@
   font-weight: 900;
 }
 .portfolio-detail__galery {
+  height: 250px;
   margin-top: 55px;
 }
 .portfolio-detail__galery .swiper-slide img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: top;
+     object-position: top;
+}
+.portfolio-detail__customer {
+  height: 250px;
 }
 
 .services {
@@ -548,7 +555,8 @@
 .about__images img {
   height: 100%;
   width: 40%;
-  object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .team {
@@ -584,8 +592,10 @@
 .team__content img {
   height: 100%;
   width: 100%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
 }
 .team__item_fullname {
   margin-top: 20px;
@@ -638,8 +648,10 @@
 }
 .client__item img {
   width: 70%;
-  object-fit: cover;
-  object-position: center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
 }
 
 .button__nofill {
@@ -655,9 +667,7 @@
   margin: 0 auto;
   margin-top: 50px;
   overflow: hidden;
-  -webkit-transition: border-color 0.3s, color 0.3s;
   transition: border-color 0.3s, color 0.3s;
-  -webkit-transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
   transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
   position: relative;
   z-index: 1;
@@ -674,11 +684,8 @@
   height: 100%;
   background: #37474f;
   z-index: 0;
-  -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
   transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
-  -webkit-transform-origin: 0% 100%;
   transform-origin: 0% 100%;
-  -webkit-transition: -webkit-transform 0.3s, opacity 0.3s, background-color 0.3s;
   transition: transform 0.3s, opacity 0.3s, background-color 0.3s;
 }
 .button__nofill:hover {
@@ -803,6 +810,30 @@
   margin-bottom: 40px;
 }
 
+.bread {
+  margin-top: 30px;
+}
+.bread .container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+.bread .container p {
+  margin-bottom: 0;
+  text-transform: uppercase;
+  color: #EB499C;
+}
+.bread .container img {
+  width: 20px;
+  margin-top: 3px;
+}
+.bread .container a {
+  text-decoration: none;
+  color: #000;
+  text-transform: uppercase;
+}
+
 @media (max-width: 1399px) {
   .services__item_header {
     font-size: 20px;
@@ -851,9 +882,6 @@
   .about__pros {
     margin-top: 40px;
   }
-  .portfolio__item img {
-    width: 300px;
-  }
   .portfolio__item p {
     font-size: 14px;
   }
@@ -865,6 +893,21 @@
   }
   .portfolio__content {
     margin-top: 30px;
+  }
+  .portfolio-detail__galery {
+    height: 195px;
+  }
+  .portfolio-detail__header {
+    font-size: 55px;
+  }
+  .portfolio-detail__galery_header {
+    font-size: 26px;
+  }
+  .portfolio__item img {
+    height: 330px;
+  }
+  .portfolio-detail__customer div p:nth-child(2) {
+    font-size: 20px;
   }
 }
 @media (max-width: 991px) {
@@ -992,6 +1035,26 @@
   .portfolio__item img {
     height: 220px;
   }
+  .portfolio-detail {
+    margin: 50px 0;
+  }
+  .portfolio-detail__customer {
+    width: 50%;
+    height: 220px;
+  }
+  .portfolio-detail__header {
+    font-size: 50px;
+  }
+  .portfolio-detail__customer div p:nth-child(2) {
+    font-size: 18px;
+  }
+  .portfolio-detail__item_container {
+    flex-direction: column;
+    gap: 50px;
+  }
+  .portfolio-detail__descr {
+    width: 100%;
+  }
 }
 @media (max-width: 767px) {
   .nav__burger_menu_active {
@@ -1069,6 +1132,16 @@
     height: 330px;
     width: 100%;
   }
+  .portfolio-detail__header {
+    font-size: 40px;
+  }
+  .portfolio-detail__customer {
+    width: 100%;
+    height: 200px;
+  }
+  .portfolio-detail__galery {
+    height: 330px;
+  }
 }
 @media (max-width: 576px) {
   .footer .container {
@@ -1129,6 +1202,28 @@
   }
   .portfolio__item p span::before {
     top: 3.5px;
+  }
+  .portfolio-detail__header {
+    font-size: 30px;
+  }
+  .portfolio-detail__item_container {
+    margin-top: 40px;
+  }
+  .bread .container {
+    font-size: 12px;
+  }
+  .portfolio-detail__customer div p:nth-child(2) {
+    font-size: 16px;
+  }
+  .portfolio-detail__descr {
+    font-size: 14px;
+  }
+  .portfolio-detail__galery_header {
+    font-size: 20px;
+  }
+  .portfolio-detail__galery {
+    margin-top: 30px;
+    height: 245px;
   }
 }
 :root {
