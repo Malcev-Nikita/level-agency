@@ -568,7 +568,8 @@
 }
 
 .team {
-  margin: 175px 0px;
+  margin-top: 175px;
+  transition: 0.2s;
 }
 .team__header {
   font-size: 80px;
@@ -593,17 +594,20 @@
 .team__content {
   margin-top: 46px;
   width: 100%;
-  height: 900px;
+  height: 1100px;
   display: flex;
   justify-content: center;
 }
 .team__content img {
-  height: 100%;
+  height: 75%;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
   -o-object-position: center;
      object-position: center;
+}
+.team__item {
+  width: 50%;
 }
 .team__item_fullname {
   margin-top: 20px;
@@ -618,6 +622,24 @@
   font-size: 16px;
   color: var(--second_color);
   width: 90%;
+}
+.team__item button {
+  background-color: rgba(255, 255, 255, 0);
+  color: var(--third_color);
+  font-size: 18px;
+  border: none;
+  font-weight: 900;
+}
+.team__item_subdescr {
+  font-size: 16px;
+  line-height: 1.2;
+  transform: scaleY(0) translateY(-50%);
+  overflow: hidden;
+  transition: 0.2s;
+  width: 90%;
+}
+.team__item_subdescr_active {
+  transform: scaleY(1) translateY(0%);
 }
 
 .client {
@@ -869,7 +891,7 @@
     font-size: 20px;
   }
   .team__content {
-    height: 600px;
+    height: 750px;
   }
   .about__header {
     font-size: 47px;
@@ -986,7 +1008,7 @@
     margin-top: 100px;
   }
   .team__content {
-    height: 420px;
+    height: 566px;
   }
   .team__item_fullname {
     font-size: 21px;
@@ -1064,6 +1086,9 @@
   }
   .portfolio-detail__descr {
     width: 100%;
+  }
+  .team__item_subdescr {
+    font-size: 14px;
   }
 }
 @media (max-width: 767px) {
@@ -1159,6 +1184,12 @@
   .nav__burger_menu ul {
     font-size: 12px;
     transform: translateY(-50px);
+  }
+  .team__item {
+    width: 100%;
+  }
+  .team__item_subdescr {
+    height: 0;
   }
 }
 @media (max-width: 576px) {

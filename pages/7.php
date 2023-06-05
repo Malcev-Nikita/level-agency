@@ -10,9 +10,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
+            <img src="//level-agency/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//f0827017.xsph.ru/image/icon/bread.svg" alt="">
+            <img src="//level-agency/image/icon/bread.svg" alt="">
             <p>ПРЕМИЯ «ПРЕДПРИНИМАТЕЛЬ ГОДА»</p>
         </div>
     </section>
@@ -47,21 +47,21 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8171.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8172.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8173.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8174.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8175.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8176.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8177.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8178.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8179.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8180.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8181.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8182.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8183.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8184.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//f0827017.xsph.ru/image/portfolio/case7/IMG_8185.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8171.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8172.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8173.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8174.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8175.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8176.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8177.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8178.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8179.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8180.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8181.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8182.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8183.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8184.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8185.JPG" alt=""></div>
                 </div>
             </div>
         </div>

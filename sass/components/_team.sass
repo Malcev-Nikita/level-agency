@@ -1,5 +1,6 @@
 .team
-    margin: 175px 0px
+    margin-top: 175px
+    transition: 0.2s
 
     &__header
         @include header
@@ -13,17 +14,18 @@
     &__content
         margin-top: 46px
         width: 100%
-        height: 900px
+        height: 1100px
         display: flex
         justify-content: center
 
         img
-            height: 100%
+            height: 75%
             width: 100%
             object-fit: cover
             object-position: center
 
     &__item
+        width: 50%
 
         &_fullname
             margin-top: 20px
@@ -38,3 +40,21 @@
             font-size: 16px
             color: var(--second_color)
             width: 90%
+
+        button
+            background-color: #ffffff00
+            color: var(--third_color)
+            font-size: 18px
+            border: none
+            font-weight: 900
+
+        &_subdescr
+            font-size: 16px
+            line-height: 1.2
+            transform: scaleY(0) translateY(-50%)
+            overflow: hidden
+            transition: 0.2s
+            width: 90%
+
+            &_active
+                transform: scaleY(1) translateY(0%)
