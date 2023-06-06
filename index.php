@@ -158,7 +158,6 @@
             <img src="/image/img/team1.png" alt="" />
 
             <p class="team__item_fullname">чурсина мария</p>
-            <p class="team__item_descr">совладелица агентства по организации бизнес-мероприятий «LEVEL»</p>
 
             <button>Узнать больше</button>
 
@@ -178,7 +177,6 @@
             <img src="/image/img/team2.png" alt="" />
 
             <p class="team__item_fullname">Кузнецова Екатерина</p>
-            <p class="team__item_descr">совладелица агентства по организации бизнес-мероприятий «LEVEL»</p>
 
             <button>Узнать больше</button>
 
