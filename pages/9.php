@@ -2,7 +2,13 @@
 <html lang="ru">
 <head>
     <?include '../components/head.php';?>
-    <title>Портфолио</title>
+    <title>СЕМЕЙНЫЙ ФЕСТИВАЛЬ ОТ “РОСТЕЛЕКОМ”</title>
+    <meta name="description" content="Агентство «LEVEL» стало организатором семейного фестиваля от Ростелеком.
+21 числа на Комсомольской набережной прошел масштабный семейный фестиваль от компании Ростелеком, приуроченный к международному дню семьи. Экорыбалка, кулинарный поединок, тысяча порций мороженого, именно это ждали все гости праздника. Масштабный праздник объединил интерактивные, спортивные и развлекательные зоны. Участникам необходимо было пройти задания на всех площадках и получить купоны для участия в розыгрыше подарков от «Ростелекома»."/>
+    <meta property="og:title" content="СЕМЕЙНЫЙ ФЕСТИВАЛЬ ОТ “РОСТЕЛЕКОМ”">
+    <meta property="og:site_name" content="Level Agency">
+    <meta property="og:description" content="Агентство «LEVEL» стало организатором семейного фестиваля от Ростелеком.
+21 числа на Комсомольской набережной прошел масштабный семейный фестиваль от компании Ростелеком, приуроченный к международному дню семьи. Экорыбалка, кулинарный поединок, тысяча порций мороженого, именно это ждали все гости праздника. Масштабный праздник объединил интерактивные, спортивные и развлекательные зоны. Участникам необходимо было пройти задания на всех площадках и получить купоны для участия в розыгрыше подарков от «Ростелекома».">
 </head>
 <body>
     <?include '../components/header.php';?>
@@ -10,9 +16,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <p>семейный фестиваль от “ростелеком”</p>
         </div>
     </section>
@@ -46,12 +52,12 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSC_6773.jpg" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8662.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8667.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8675.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8701.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case9/DSCF8779.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSC_6773.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSCF8662.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSCF8667.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSCF8675.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSCF8701.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case9/DSCF8779.webp" alt=""></div>
                 </div>
             </div>
         </div>

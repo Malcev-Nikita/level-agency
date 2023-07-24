@@ -2,7 +2,11 @@
 <html lang="ru">
 <head>
     <?include '../components/head.php';?>
-    <title>Портфолио</title>
+    <title>ПРЕМИЯ “ПРЕДПРИНИМАТЕЛЬ ГОДА”</title>
+    <meta name="description" content="В Астрахани прошла торжественная церемония награждения победителей конкурсов «Предприниматель года» и «Лучший социальный проект года» , организованная агентством «LEVEL», совместно с центром «Мой бизнес» и министерством экономического развития. 7 февраля в гостинице «Астраханская» состоялось торжественная церемония награждения победителей конкурсов «Предприниматель года» и «Лучший социальный проект года». "/>
+    <meta property="og:title" content="ПРЕМИЯ “ПРЕДПРИНИМАТЕЛЬ ГОДА”">
+    <meta property="og:site_name" content="Level Agency">
+    <meta property="og:description" content="В Астрахани прошла торжественная церемония награждения победителей конкурсов «Предприниматель года» и «Лучший социальный проект года» , организованная агентством «LEVEL», совместно с центром «Мой бизнес» и министерством экономического развития. 7 февраля в гостинице «Астраханская» состоялось торжественная церемония награждения победителей конкурсов «Предприниматель года» и «Лучший социальный проект года». ">
 </head>
 <body>
     <?include '../components/header.php';?>
@@ -10,9 +14,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <p>ПРЕМИЯ «ПРЕДПРИНИМАТЕЛЬ ГОДА»</p>
         </div>
     </section>
@@ -47,21 +51,21 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8171.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8172.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8173.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8174.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8175.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8176.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8177.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8178.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8179.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8180.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8181.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8182.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8183.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8184.JPG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case7/IMG_8185.JPG" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8171.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8172.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8173.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8174.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8175.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8176.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8177.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8178.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8179.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8180.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8181.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8182.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8183.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8184.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case7/IMG_8185.webp" alt=""></div>
                 </div>
             </div>
         </div>

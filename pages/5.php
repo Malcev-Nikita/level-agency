@@ -2,7 +2,11 @@
 <html lang="ru">
 <head>
     <?include '../components/head.php';?>
-    <title>Портфолио</title>
+    <title>МЕРОПРИЯТИЯ ДЛЯ ФК “ВОЛГАРЬ”</title>
+    <meta name="description" content="ФК «Волгарь» — известный российский футбольный клуб г. Астрахань. Основан в 1960 году. Является обладателем Кубка ФНЛ. Любому горожанину сегодня интересно хотя бы раз прийти на стадион и посмотреть, что же это такое – настоящая футбольная лига. И у астраханцев есть эта возможность!"/>
+    <meta property="og:title" content="МЕРОПРИЯТИЯ ДЛЯ ФК “ВОЛГАРЬ”">
+    <meta property="og:site_name" content="Level Agency">
+    <meta property="og:description" content="ФК «Волгарь» — известный российский футбольный клуб г. Астрахань. Основан в 1960 году. Является обладателем Кубка ФНЛ. Любому горожанину сегодня интересно хотя бы раз прийти на стадион и посмотреть, что же это такое – настоящая футбольная лига. И у астраханцев есть эта возможность!">
 </head>
 <body>
     <?include '../components/header.php';?>
@@ -10,9 +14,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <p>мероприятия для ФК “волгарь”</p>
         </div>
     </section>
@@ -46,12 +50,12 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8148.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8149.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8150.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8151.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8152.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case5/IMG_8153.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8148.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8149.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8150.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8151.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8152.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case5/IMG_8153.webp" alt=""></div>
                 </div>
             </div>
         </div>

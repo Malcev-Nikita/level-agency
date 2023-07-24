@@ -2,7 +2,12 @@
 <html lang="ru">
 <head>
     <?include './components/head.php';?>
-    <title>level-agency</title>
+    <title>Ивент агенство левел</title>
+    <meta name="description" content="Подготовка деловых мероприятий и их организация - это 60% успеха в достижении бизнес целей компании, только тщательно разработанный план, четкая организация и оперативное решение всех возникающих вопросов обеспечат успех инициатора, именно это мы гарантируем своим заказчикам."/>
+    
+    <meta property="og:title" content="Ивент агенство левел">
+    <meta property="og:site_name" content="Level Agency">
+    <meta property="og:description" content="Подготовка деловых мероприятий и их организация - это 60% успеха в достижении бизнес целей компании, только тщательно разработанный план, четкая организация и оперативное решение всех возникающих вопросов обеспечат успех инициатора, именно это мы гарантируем своим заказчикам.">
 </head>
 <body>
     <?include './components/header.php';?>
@@ -60,9 +65,9 @@
         </div>
 
         <div class="about__images">
-          <img src="/image/img/about1.png" alt="" data-aos="fade-up" data-aos-delay="100"/>
-          <img src="/image/img/about2.png" alt="" data-aos="fade-up" data-aos-delay="200"/>
-          <img src="/image/img/about3.png" alt="" data-aos="fade-up" data-aos-delay="300"/>
+          <img src="/image/img/about1.webp" alt="" data-aos="fade-up" data-aos-delay="100"/>
+          <img src="/image/img/about2.webp" alt="" data-aos="fade-up" data-aos-delay="200"/>
+          <img src="/image/img/about3.webp" alt="" data-aos="fade-up" data-aos-delay="300"/>
         </div>
       </div>
     </section>
@@ -125,19 +130,19 @@
 
         <div class="portfolio__content">
           <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
-            <img src="/image/img/portfolio1.png" alt=""/>
+            <img src="/image/img/portfolio1.webp" alt=""/>
 
             <p>премия «предприниматель года»<span></span></p>
           </div>
 
           <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
-            <img src="/image/img/portfolio2.png" alt=""/>
+            <img src="/image/img/portfolio2.webp" alt=""/>
 
             <p>Кибертурнир от «ростелеком»<span></span></p>
           </div>
 
           <div class="portfolio__item" data-aos="fade-up" data-aos-delay="100">
-            <img src="/image/img/portfolio3.png" alt=""/>
+            <img src="/image/img/portfolio3.webp" alt=""/>
 
             <p>МЕЖДУНАРОДНЫЙ БИЗНЕС КОНГРЕСС “НОВЫЕ ПРАВИЛА РОСТА” В САНКТ-ПЕТЕРБУРГЕ <span></span></p>
           </div>
@@ -155,7 +160,7 @@
 
         <div class="team__content">
           <div class="team__item">
-            <img src="/image/img/team1.png" alt="" />
+            <img src="/image/img/team1.webp" alt="" />
 
             <p class="team__item_fullname">чурсина мария</p>
 
@@ -174,7 +179,7 @@
           </div>
 
           <div class="team__item">
-            <img src="/image/img/team2.png" alt="" />
+            <img src="/image/img/team2.webp" alt="" />
 
             <p class="team__item_fullname">Кузнецова Екатерина</p>
 

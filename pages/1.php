@@ -2,7 +2,11 @@
 <html lang="ru">
 <head>
     <?include '../components/head.php';?>
-    <title>Портфолио</title>
+    <title>СООБЩЕСТВУ “PRO-ЖЕНЩИН” В АСТРАХАНИ 3 ГОДА</title>
+    <meta name="description" content="Самому большому женскому сообществу Астрахани «PRO- женщин» 17 июля исполнилось 3 года. За это время к ним присоединилось 984 активных, уверенных в себе, творческих, полных энергии женщин. Они создают комфортную,доверительную среду для поддержки и саморазвития астраханок, познания себя, обретения лидерских качеств. За 3 года сообщество помогло поверить в себя и повести за собой людей больше 100 Лидеров. Объединяя в малые группы женщин, Лидеры помогают им определиться с целями и реализовать их."/>
+    <meta property="og:title" content="СООБЩЕСТВУ “PRO-ЖЕНЩИН” В АСТРАХАНИ 3 ГОДА">
+    <meta property="og:site_name" content="Level Agency">
+    <meta property="og:description" content="Самому большому женскому сообществу Астрахани «PRO- женщин» 17 июля исполнилось 3 года. За это время к ним присоединилось 984 активных, уверенных в себе, творческих, полных энергии женщин. Они создают комфортную,доверительную среду для поддержки и саморазвития астраханок, познания себя, обретения лидерских качеств. За 3 года сообщество помогло поверить в себя и повести за собой людей больше 100 Лидеров. Объединяя в малые группы женщин, Лидеры помогают им определиться с целями и реализовать их.">
 </head>
 <body>
     <?include '../components/header.php';?>
@@ -10,9 +14,9 @@
     <section class="bread">
         <div class="container">
             <a href="/">Главная</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <a href="/pages/portfolio.php">Портфолио</a>
-            <img src="//level-agency/image/icon/bread.svg" alt="">
+            <img src="/image/icon/bread.svg" alt="">
             <p>“сообществу “PRo-женщин” в астрахани 3 года”</p>
         </div>
     </section>
@@ -43,11 +47,11 @@
             <p class="portfolio-detail__galery_header">Фотографии мероприятия</p>
             <div class="portfolio-detail__galery swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8111.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8112.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8113.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8114.PNG" alt=""></div>
-                    <div class="swiper-slide"><img src="//level-agency/image/portfolio/case1/IMG_8115.PNG" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case1/IMG-8111.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case1/IMG-8112.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case1/IMG-8113.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case1/IMG-8114.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="/image/portfolio/case1/IMG-8115.webp" alt=""></div>
                 </div>
             </div>
         </div>
